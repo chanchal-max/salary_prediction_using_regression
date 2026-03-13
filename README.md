@@ -1,5 +1,5 @@
-# salary_prediction_using_regression
-# Salary Prediction Using Multiple Linear Regression
+# Salary prediction using regression
+### By: chanchal kushwah 
 
 ## Overview
 
